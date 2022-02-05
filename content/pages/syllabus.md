@@ -56,17 +56,165 @@ Grading for this course is pass/fail and will depend on student attendance, prep
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to the course | &nbsp; |
-| 2 | Uncontrolled proliferation: Sonic hedgehog signaling in the developing brain and brain tumors | &nbsp; |
-| 3 | Proto-oncogenes at the root of developmental disorders and cancer: the example of K-ras | &nbsp; |
-| 4 | To live or to die: the general principles of apoptosis | &nbsp; |
-| 5 | Liver apoptosis: the case of NF-kappaB | &nbsp; |
-| 6 | Stem cells and self-renewal | &nbsp; |
-| 7 | Angiogenesis: the formation of new blood vessels and the role of VEGF | Written assignment due |
-| 8 | Metastasis, the lethal spread of cancer | &nbsp; |
-| 9 | Metastasis part II: the case of TGF-Beta | &nbsp; |
-| 10 | Growth factor signaling: from normal function to clinical treatment | &nbsp; |
-| 11 | MicroRNAs in development and cancer | &nbsp; |
-| 12 | Final class | Oral presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the course
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Uncontrolled proliferation: Sonic hedgehog signaling in the developing brain and brain tumors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Proto-oncogenes at the root of developmental disorders and cancer: the example of K-ras
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+To live or to die: the general principles of apoptosis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Liver apoptosis: the case of NF-kappaB
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Stem cells and self-renewal
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Angiogenesis: the formation of new blood vessels and the role of VEGF
+{{< tdclose >}}
+{{< tdopen >}}
+Written assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Metastasis, the lethal spread of cancer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Metastasis part II: the case of TGF-Beta
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Growth factor signaling: from normal function to clinical treatment
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+MicroRNAs in development and cancer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Final class
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
